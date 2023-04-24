@@ -99,3 +99,82 @@ sm.qqplot(df['ModerateNegativeSkew_2'],fit=True,line='45')
 plt.show()
 
 ~~~
+
+# OUPUT
+
+# Dataset:
+
+![image](https://user-images.githubusercontent.com/129577149/233902734-714c44b8-c06d-4903-a3b5-c758cd8d2d31.png)
+
+
+# Head:
+
+![image](https://user-images.githubusercontent.com/129577149/233902824-d76a16da-dea0-4622-9b0c-8809af204507.png)
+
+
+# Null data:
+
+![image](https://user-images.githubusercontent.com/129577149/233902873-78ce9416-32f0-4b96-bb07-856af2e68285.png)
+
+# Information:
+
+![image](https://user-images.githubusercontent.com/129577149/233902906-2e42b99a-f39e-40dc-b181-19d345cccc1c.png)
+
+# Description:
+
+![image](https://user-images.githubusercontent.com/129577149/233902956-ce24cece-d23f-4b75-af9f-8f45a4bfc050.png)
+
+#  Highly Positive Skew:
+
+![image](https://user-images.githubusercontent.com/129577149/233903082-6341afba-1fed-48a8-830c-b49fb50795e7.png)
+
+# Highly Negative Skew:
+
+![image](https://user-images.githubusercontent.com/129577149/233903131-e8af9201-037a-40f5-bf55-921e05dc474e.png)
+
+# Moderate Positive Skew:
+
+![image](https://user-images.githubusercontent.com/129577149/233903205-abd2bdd5-62bb-45eb-a945-2abc245323d7.png)
+
+# Moderate Negative Skew:
+
+![image](https://user-images.githubusercontent.com/129577149/233903323-15b0baaf-8e4c-48a1-a2c4-06898326b25e.png)
+
+# Log of Highly Positive Skew:
+
+![image](https://user-images.githubusercontent.com/129577149/233903386-0a4aa70e-112a-4894-9d99-204e4754f9d6.png)
+
+
+# Log of Moderate Positive Skew:
+
+![image](https://user-images.githubusercontent.com/129577149/233903431-8df53abf-c87f-40c4-a86a-b2e6a7e2c150.png)
+
+# Reciprocal of Highly Positive Skew:
+
+![image](https://user-images.githubusercontent.com/129577149/233903483-6222b9d5-36cf-4ff5-83f1-4e3dcc777f95.png)
+
+# Square root tranformation:
+
+![image](https://user-images.githubusercontent.com/129577149/233903538-fc7a5874-5abc-4f40-984d-3c42234b7826.png)
+
+# Power transformation of Moderate Positive Skew:
+
+![image](https://user-images.githubusercontent.com/129577149/233903657-3df5b586-a017-4ca9-a358-e71a56b639e5.png)
+
+# Power transformation of Moderate Negative Skew:
+
+![image](https://user-images.githubusercontent.com/129577149/233903898-8ca95c23-e65a-4775-93eb-a761b5472283.png)
+
+# Quantile transformation:
+
+![image](https://user-images.githubusercontent.com/129577149/233903811-1df1f039-617e-41ed-8d7c-b8efc4298f84.png)
+
+# Result
+~~~
+
+Thus, Feature transformation is performed and executed successfully for the given dataset
+
+~~~
+
+
+
